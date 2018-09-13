@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am from Ivory Coast. I graduated from Reed College (Portland, Oregon) in 2015 with a bachelor in Economics-Mathematics. Then, I worked 3 years as a financial analyst in Kenya, Nigeria, France and the US. 
 
 ### Contact me
 
