@@ -53,7 +53,7 @@ Covariance plays a key role in data science. Random variables with high covarian
 
 - Ruslana Dalinina. "Oracle+ Datascience.com". Introduction to correlation. Read on September 14, 2018 from <https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials>
 
-- Brian Stacey."Quora". What is the purpose of covariance in statistics ? How does it differ from correlation? Read ON September 14,2018 from  <https://www.quora.com/What-is-the-purpose-of-covariance-in-statistics-How-does-it-differ-from-correlation>
+- Brian Stacey."Quora". What is the purpose of covariance in statistics ? How does it differ from correlation? Read on September 14,2018 from  <https://www.quora.com/What-is-the-purpose-of-covariance-in-statistics-How-does-it-differ-from-correlation>
 
 - Brian Quanz."Quora". What are the applications of data science. Read on September 14, 2018 from <https://www.quora.com/What-are-the-applications-of-covariance>
 
