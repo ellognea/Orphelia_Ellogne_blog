@@ -3,7 +3,7 @@ layout: post
 title: What is covariance ?
 ---
 
-<p style="font-size:90%;">
+
 <div align="justify">  
 Baking a chocolate cake for 6 people requires specific ingredients and quantities such as 3 large eggs, 6 oz of sugar, 6 oz of flour etc... If we instead want to bake for 5 people, decreasing the quantity of some ingredients might require changes in the quantity of other ingredients. The direction of the relationship between the ingredients’ quantities is called covariance.
 </div> 
@@ -61,4 +61,4 @@ Covariance plays a key role in data science. Random variables with high covarian
 
 - "Stack exchange". What is covariance in plain language. Read on September 14, 2018 from <https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language>
 
-</p>
+
