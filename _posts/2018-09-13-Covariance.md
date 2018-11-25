@@ -23,7 +23,7 @@ $\mu_Y$ = mean of Y
 
 Covariance plays a key role in data science. Random variables with high covariance can be combined without losing significant information. It is also useful for inferences; it can be used to predict one result from another. In addition, it allows the integration of data from multiple sets which is key to machine learning.
 
-Source:
+**Source**:
 
 Michael Gelbart. (2018). "Descriptive statistics and probability for data science, lecture 3". https://github.ubc.ca/MDS-2018-19/DSCI_551_stat-prob-dsci_students/blob/master/lectures/lecture3.ipynb
 
