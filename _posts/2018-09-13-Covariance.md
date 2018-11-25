@@ -47,8 +47,7 @@ Covariance plays a key role in data science. Random variables with high covarian
 
 **Source**:
 
-- Michael Gelbart. (2018). "Descriptive statistics and probability for data science, lecture 3".
-<https://github.ubc.ca/MDS-2018-19/DSCI_551_stat-prob-dsci_students/blob/master/lectures/lecture3.ipynb>
+- Michael Gelbart. (2018). "Descriptive statistics and probability for data science, lecture 3".<https://github.ubc.ca/MDS-2018-19/DSCI_551_stat-prob-dsci_students/blob/master/lectures/lecture3.ipynb>
 
 - "Statistics how to?".Covariance in statistics: what is it?Example. Read on September 14, 2018 from <http://www.statisticshowto.com/covariance/>
 
