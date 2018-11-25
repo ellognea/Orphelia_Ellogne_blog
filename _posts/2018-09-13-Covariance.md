@@ -3,7 +3,6 @@ layout: post
 title: What is covariance ?
 ---
 
-<div align="justify"> 
 Baking a chocolate cake for 6 people requires specific ingredients and quantities such as 3 large eggs, 6 oz of sugar, 6 oz of flour etc... If we instead want to bake for 5 people, decreasing the quantity of some ingredients might require changes in the quantity of other ingredients. The direction of the relationship between the ingredients’ quantities is called covariance.
 
 If two ingredients both increase (decrease) at the same time, their covariance is positive. For example, less flour is required when the number of eggs is reduced. However, if two ingredients vary in opposite direction, their covariance is negative. For instance, less sugar is needed when honey is added to the recipe. Lastly, if two ingredients don’t have any effect on each other (i.e.: if they are independent), their covariance is zero.
@@ -24,7 +23,7 @@ $\mu_Y$ = mean of Y
 
 Covariance plays a key role in data science. Random variables with high covariance can be combined without losing significant information. It is also useful for inferences; it can be used to predict one result from another. In addition, it allows the integration of data from multiple sets which is key to machine learning.
 
-#### Source:
+Source:
 
 Michael Gelbart. (2018). "Descriptive statistics and probability for data science, lecture 3". https://github.ubc.ca/MDS-2018-19/DSCI_551_stat-prob-dsci_students/blob/master/lectures/lecture3.ipynb
 
