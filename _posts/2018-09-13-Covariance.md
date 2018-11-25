@@ -2,9 +2,9 @@
 layout: post
 title: What is covariance ?
 ---
-<div align="justify"> 
-<p style="font-size:50%;">
-  
+
+<p style="font-size:90%;">
+<div align="justify">  
 Baking a chocolate cake for 6 people requires specific ingredients and quantities such as 3 large eggs, 6 oz of sugar, 6 oz of flour etc... If we instead want to bake for 5 people, decreasing the quantity of some ingredients might require changes in the quantity of other ingredients. The direction of the relationship between the ingredients’ quantities is called covariance.
 </div> 
 
