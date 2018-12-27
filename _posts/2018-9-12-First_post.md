@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How it all started !
+title: Why data science ?
 ---
 How does my laptop know my dress style?
 
