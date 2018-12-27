@@ -30,18 +30,18 @@ Covariance plays a key role in data science. Random variables with high covarian
 
 **Source**:
 <br>
-Michael Gelbart. (2018). "Descriptive statistics and probability for data science, lecture 3".<https://github.ubc.ca/MDS-2018-19/DSCI_551_stat-prob-dsci_students/blob/master/lectures/lecture3.ipynb>
-<br>
-"Statistics how to?".Covariance in statistics: what is it?Example. Read on September 14, 2018 from <http://www.statisticshowto.com/covariance/>
-<br>
-Ruslana Dalinina. "Oracle+ Datascience.com". Introduction to correlation. Read on September 14, 2018 from <https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials>
-<br>
-Brian Stacey."Quora". What is the purpose of covariance in statistics ? How does it differ from correlation? Read on September 14,2018 from  <https://www.quora.com/What-is-the-purpose-of-covariance-in-statistics-How-does-it-differ-from-correlation>
-<br>
-Brian Quanz."Quora". What are the applications of data science. Read on September 14, 2018 from <https://www.quora.com/What-are-the-applications-of-covariance>
-<br>
-Alan Anderson "dummies". How to measure the covariance and correlation of data samples. Read on September 14, 2018 <https://www.dummies.com/education/math/business-statistics/how-to-measure-the-covariance-and-correlation-of-data-samples/>
-<br>
-"Stack exchange". What is covariance in plain language. Read on September 14, 2018 from <https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language>
+- Michael Gelbart. (2018). "Descriptive statistics and probability for data science, lecture 3".<https://github.ubc.ca/MDS-2018-19/DSCI_551_stat-prob-dsci_students/blob/master/lectures/lecture3.ipynb>
+
+- "Statistics how to?".Covariance in statistics: what is it?Example. Read on September 14, 2018 from <http://www.statisticshowto.com/covariance/>
+
+- Ruslana Dalinina. "Oracle+ Datascience.com". Introduction to correlation. Read on September 14, 2018 from <https://www.datascience.com/blog/introduction-to-correlation-learn-data-science-tutorials>
+
+- Brian Stacey."Quora". What is the purpose of covariance in statistics ? How does it differ from correlation? Read on September 14,2018 from  <https://www.quora.com/What-is-the-purpose-of-covariance-in-statistics-How-does-it-differ-from-correlation>
+
+- Brian Quanz."Quora". What are the applications of data science. Read on September 14, 2018 from <https://www.quora.com/What-are-the-applications-of-covariance>
+
+- Alan Anderson "dummies". How to measure the covariance and correlation of data samples. Read on September 14, 2018 <https://www.dummies.com/education/math/business-statistics/how-to-measure-the-covariance-and-correlation-of-data-samples/>
+
+- Stack exchange. What is covariance in plain language. Read on September 14, 2018 from <https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language>
 
 
