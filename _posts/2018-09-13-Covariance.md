@@ -18,7 +18,6 @@ Let’s continue with the baking analogy to explore another characteristic of co
 <div align="justify">
 Luckily, it is possible to scale the covariance such that it has a minimum value of -1 and a maximum value of 1. This is done by dividing it by the standard deviations of both variables. Doing so, transforms the covariance into its normalized form called correlation… Nothing is lost though, just transformed.
 <br>
-<div align="justify">
 In probability and statistics, covariance is formally defined as “the expected product of deviations of two random variables from their mean values” (lab 551, lecture 3). In other words, it tells us whether we should expect one random variable to be below (above) its mean when the other is.
 </div> 
 <br>
