@@ -8,6 +8,7 @@ Baking a chocolate cake for 6 people requires specific ingredients and quantitie
 <br>
 If two ingredients both increase (decrease) at the same time, their covariance is positive. For example, less flour is required when the number of eggs is reduced. However, if two ingredients vary in opposite direction, their covariance is negative. For instance, less sugar is needed when honey is added to the recipe. Lastly, if two ingredients don’t have any effect on each other (i.e.: if they are independent), their covariance is zero.
 </div> 
+<br>
 <div align="justify">
 However, does a 0 covariance imply independence? Let’s say you’re baking a lemon and a chocolate cake. The required sugar quantities are specified in the recipes; hence the covariance between the required amount of sugar in each cake is zero. But, imagine that you don’t have enough sugar for both cakes. This means that the amount of sugar you can add to the lemon cake depends on the quantity you’ll use for the chocolate cake. Therefore, the sugar quantities are not independent. This shows that a 0 covariance does not necessarily imply independence.
 <br>
@@ -28,7 +29,7 @@ Covariance plays a key role in data science. Random variables with high covarian
 <br>
 
 **Source**:
-
+<br>
 - Michael Gelbart. (2018). "Descriptive statistics and probability for data science, lecture 3".<https://github.ubc.ca/MDS-2018-19/DSCI_551_stat-prob-dsci_students/blob/master/lectures/lecture3.ipynb>
 
 - "Statistics how to?".Covariance in statistics: what is it?Example. Read on September 14, 2018 from <http://www.statisticshowto.com/covariance/>
